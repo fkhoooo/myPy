@@ -1,0 +1,5 @@
+2022-02-21 10:48:17
+ADD:E:\h5\ZgH5\resource\assets\icon\disciple\skill\1114.png
+ADD:E:\h5\ZgH5\resource\assets\icon\disciple\skill\1171.png
+ADD:E:\h5\ZgH5\resource\assets\icon\disciple\skill\1181.png
+UPDATE:E:\testAssets\ZgH5\resource\assets\icon\activity\act957.png
